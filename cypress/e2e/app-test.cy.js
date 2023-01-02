@@ -1,3 +1,5 @@
+// My Cypress never actually connected so I couldn't validate that any of my tests were passing. I gave it the ol' college try, though.
+
 describe('Users home page view', () => {
 
   it('Should contain a header', () => {
